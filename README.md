@@ -12,6 +12,7 @@ Before you begin, make sure you have the following:
 - A GitHub account
 - Your static web application code hosted on GitHub
 
+
 ## Steps
 
 ### 1. Create an Azure Web App
